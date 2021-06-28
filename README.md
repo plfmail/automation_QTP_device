@@ -1,2 +1,1 @@
-# automation-test
-Maven配置
+# automation-test_QTP
